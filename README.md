@@ -128,4 +128,8 @@ allure serve
 * Open project in IntelliJ IDEA.
 * Right-click on `bingTests.xml` → **Run 'bingTests.xml'**.
 * Or Right-click on `testng.xml` → **Run 'testng.xml' for parallel execution**
+  
+
+## Limitation
+Tests can currently only be executed locally.CI/CD execution is not yet implemented.
 
