@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="464fb155-dc11-40c9-b182-edb58a79efe1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bingTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parallelExecution.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/actions/BrowserActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/actions/UIActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataDriven/JsonDataReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/BingHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/BingSearchResults.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ScreenShot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/baseTest/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/bingTests/BingTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/bingTests/ScreenshotListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,9 +49,9 @@
     "TestNG.BingTests.verifyBingTestResults.executor": "Run",
     "TestNG.E:/VOIS/VOIS framework/Moduler_Test_Automation_Framework/bingTests.xml.executor": "Run",
     "TestNG.E:/VOIS/VOIS framework/Moduler_Test_Automation_Framework/testng.xml.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/2022/Desktop/Automation_Framework"
+    "last_opened_file_path": "E:/VOIS/Test_Automation_Modular_Framework"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -84,7 +64,7 @@
       <recent name="utils" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.BingTests (1)">
+  <component name="RunManager" selected="TestNG.BingTests.verifyBingTestResults">
     <configuration name="BingTests (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Moduler_Test_Automation_Framework" />
       <extension name="coverage">
@@ -142,34 +122,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CrossBrowserSuite" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Moduler_Test_Automation_Framework" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
+    <configuration name="BingTests.verifyBingTestResults" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Framework_Testing" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="bingTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SUITE_NAME" value="CrossBrowserSuite" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-Dbrowser=edge" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="true" />
-      <option name="PROPERTIES_FILE" value="" />
+      <option name="PACKAGE_NAME" value="bingTests" />
+      <option name="MAIN_CLASS_NAME" value="bingTests.BingTests" />
+      <option name="METHOD_NAME" value="verifyBingTestResults" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
-      <listeners>
-        <listener class="org.testng.reporters.EmailableReporter2" />
-      </listeners>
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -197,14 +163,15 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="TestNG.BingTests.verifyBingTestResults" />
       <item itemvalue="TestNG.BingTests" />
       <item itemvalue="TestNG.BingTests (1)" />
       <item itemvalue="TestNG.E:/VOIS/VOIS framework/Moduler_Test_Automation_Framework/bingTests.xml" />
       <item itemvalue="TestNG.BingTests.verifyBingTestResults (1)" />
-      <item itemvalue="TestNG.CrossBrowserSuite" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.BingTests.verifyBingTestResults" />
         <item itemvalue="TestNG.BingTests (1)" />
         <item itemvalue="TestNG.BingTests.verifyBingTestResults (1)" />
         <item itemvalue="TestNG.E:/VOIS/VOIS framework/Moduler_Test_Automation_Framework/bingTests.xml" />
