@@ -13,7 +13,7 @@ The framework follows **Page Object Model (POM)** and **Data-Driven Testing** to
 ---
 
 ## 🏗 Project Structure
-
+```text
 Moduler\_Test\_Automation\_Framework/
 │
 ├── src
@@ -58,7 +58,6 @@ Moduler\_Test\_Automation\_Framework/
 ├── pom.xml                  # Maven dependencies and plugins
 └── testng.xml               # TestNG suite file for parallel execution
 
-```
 ```
 
 ## Explanation:
