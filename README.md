@@ -1,6 +1,6 @@
 # Test_Automation_Modular_Framework
 
-## 📌 Overview
+## Overview
 This is a **Modular Test Automation Framework** built using **Selenium WebDriver, TestNG, and Allure Reporting**.  
 The framework follows **Page Object Model (POM)** and **Data-Driven Testing** to ensure reusability, maintainability, and scalability.
 
@@ -12,7 +12,7 @@ The framework follows **Page Object Model (POM)** and **Data-Driven Testing** to
 * Parallel Execution → Supported using testng.xml + ThreadLocal WebDriver.
 ---
 
-## 🏗 Project Structure
+## Project Structure
 ```text
 Moduler\_Test\_Automation\_Framework/
 │
@@ -71,7 +71,7 @@ Moduler\_Test\_Automation\_Framework/
 * pom.xml → Maven configuration file.
 * testng.xml → Test suite execution file.
 ---
-## ⚙️ Tools & Libraries
+## Tools & Libraries
 - **Java 11+**
 - **Maven** – build & dependency management
 - **Selenium WebDriver** – browser automation
@@ -81,7 +81,7 @@ Moduler\_Test\_Automation\_Framework/
 - **JSON + Properties Files** – external test data & configuration
 ---
 
-## 🌐 Browser Support
+## Browser Support
 The framework supports multiple browsers:
 - **Google Chrome**
 - **Mozilla Firefox**
@@ -94,7 +94,7 @@ Browser choice can be controlled via:
 
 ---
 
-## 🧪 Test Scenarios Implemented
+## Test Scenarios Implemented
 1. **Search Test** – Validate Bing search functionality.
 2. **Related Search Test** – Validate related searches are displayed.
 3. **Pagination Test** – Validate results when navigating to next pages.
@@ -102,7 +102,7 @@ Browser choice can be controlled via:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Run with Maven
 
