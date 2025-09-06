@@ -1,0 +1,6 @@
+{
+  "bingUrl": "https://www.bing.com",
+  "searchWord": "Vodafone",
+  "expectedRelatedSearches": 2,
+  "expectedTextInRelatedSearches": "Vodafone"
+}

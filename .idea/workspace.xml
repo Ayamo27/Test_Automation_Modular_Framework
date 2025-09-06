@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="464fb155-dc11-40c9-b182-edb58a79efe1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bingTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallelExecution.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actions/BrowserActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actions/UIActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dataDriven/JsonDataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/BingHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/BingSearchResults.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/baseTest/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/bingTests/BingTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/bingTests/ScreenshotListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testData.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="328iPbZA2s29kiqofzsMRQpS2el" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.Automation_Framework_Testing [clean].executor": "Run",
+    "Maven.Automation_Framework_Testing [test].executor": "Run",
+    "Maven.Automation_Framework_Testing [verify].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.BingTests (1).executor": "Run",
+    "TestNG.BingTests.executor": "Run",
+    "TestNG.BingTests.verifyBingTestResults (1).executor": "Run",
+    "TestNG.BingTests.verifyBingTestResults.executor": "Run",
+    "TestNG.E:/VOIS/VOIS framework/Moduler_Test_Automation_Framework/bingTests.xml.executor": "Run",
+    "TestNG.E:/VOIS/VOIS framework/Moduler_Test_Automation_Framework/testng.xml.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/2022/Desktop/Automation_Framework"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\VOIS\VOIS framework\Moduler_Test_Automation_Framework\src\test\resources" />
+      <recent name="E:\VOIS\VOIS framework\Moduler_Test_Automation_Framework\src\main\resources" />
+      <recent name="E:\VOIS\VOIS framework\Moduler_Test_Automation_Framework" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.BingTests (1)">
+    <configuration name="BingTests (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Moduler_Test_Automation_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bingTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bingTests" />
+      <option name="MAIN_CLASS_NAME" value="bingTests.BingTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BingTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Moduler_Test_Automation_Framework" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="BingTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter2" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BingTests.verifyBingTestResults (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Moduler_Test_Automation_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bingTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bingTests" />
+      <option name="MAIN_CLASS_NAME" value="bingTests.BingTests" />
+      <option name="METHOD_NAME" value="verifyBingTestResults" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrossBrowserSuite" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Moduler_Test_Automation_Framework" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bingTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="CrossBrowserSuite" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-Dbrowser=edge" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter2" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E:/VOIS/VOIS framework/Moduler_Test_Automation_Framework/bingTests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Moduler_Test_Automation_Framework" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/bingTests.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter2" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.BingTests" />
+      <item itemvalue="TestNG.BingTests (1)" />
+      <item itemvalue="TestNG.E:/VOIS/VOIS framework/Moduler_Test_Automation_Framework/bingTests.xml" />
+      <item itemvalue="TestNG.BingTests.verifyBingTestResults (1)" />
+      <item itemvalue="TestNG.CrossBrowserSuite" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.BingTests (1)" />
+        <item itemvalue="TestNG.BingTests.verifyBingTestResults (1)" />
+        <item itemvalue="TestNG.E:/VOIS/VOIS framework/Moduler_Test_Automation_Framework/bingTests.xml" />
+        <item itemvalue="TestNG.BingTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="464fb155-dc11-40c9-b182-edb58a79efe1" name="Changes" comment="" />
+      <created>1756808580349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756808580349</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/BingHomePage.java</url>
+          <line>12</line>
+          <properties field="searchIcon" class="pages.BingHomePage" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/bingTests/BingTests.java</url>
+          <line>30</line>
+          <properties class="bingTests.BingTests" method="verifyBingTestResults">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
